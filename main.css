@@ -146,7 +146,9 @@
     font-family: "Poppins", sans-serif;
     line-height: 1.2em !important;
 }
-
+.navbar-nav .nav-item.active .nav-link {
+    color: #6c63ff; 
+}
 .abouttt {
     margin-bottom: 40px;
     text-transform: uppercase !important;
