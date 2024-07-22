@@ -58,7 +58,9 @@
     background-color: #f9f9ff;
     color: #333;
     text-align: center;
-    margin-top: 80px; /* Adjust this if needed to create space for fixed navbar */
+    margin-top: 80px; 
+margin-left: 100px;
+text-align: left;
 }
 
 .special-container .container {
@@ -100,17 +102,15 @@
 
 .special-gradient-button {
     background: linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-    border: none;
-    line-height: 30px;
     padding-left: 30px;
     padding-right: 30px;
-    border-radius: none;
     color: #fff;
     display: inline-block;
     font-weight: 500;
     transition: all 0.3s ease 0s;
     cursor: pointer;
     font-family: "Poppins", sans-serif;
+    
 }
 
 .special-gradient-button:hover {
